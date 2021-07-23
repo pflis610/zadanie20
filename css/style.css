@@ -1,0 +1,33 @@
+body {
+    background-color: thistle;
+}
+body h1 {
+    background-color: teal;
+}
+body h2 {
+    background-color: turquoise;
+}
+#p1 {
+    background-color: wheat;
+}
+#p2 {
+    background-color: yellowgreen;
+}
+body ol {
+    background-color: violet;
+}
+#punkt1 {
+    color: blue;
+}
+#punkt2 {
+    color: beige;
+}
+#punkt3 {
+    color: chocolate ;
+}
+#punkt4 {
+    color: darkcyan ;
+}
+#punkt5 {
+    color: darkmagenta ;
+}
